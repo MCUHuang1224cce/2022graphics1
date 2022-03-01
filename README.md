@@ -53,7 +53,7 @@ week02
 
  */
  
- ```
+ ```c++
 #include <GL/glut.h>
 /* GLUT callback Handlers */
 static void display(void)
@@ -72,7 +72,7 @@ int main(int argc, char *argv[])
     glutMainLoop();
 }
 ```
-```
+```c++
 #include <GL./glut.h>
 void display()
 {
